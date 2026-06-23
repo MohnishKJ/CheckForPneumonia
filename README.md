@@ -1,4 +1,4 @@
-# PneumoniaDoc 🩺
+# CheckForPneumonia 🩺
 
 AI-powered web app for rapid pneumonia detection from chest X-ray images.
 
